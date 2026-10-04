@@ -1,0 +1,425 @@
+order_id,order_date,city,region,category,product,customer_segment,payment_method,units,unit_price_pkr,discount_pct,delivery_days,rating,returned,revenue_pkr
+ORD-10000,2025-06-05,Karachi,Sindh,Clothing,Hoodie,Student,COD,3,1520,0,7,3.4,False,4560
+ORD-10001,2025-10-07,Faisalabad,Punjab,Electronics,Bluetooth Speaker,Consumer,Easypaisa,2,5060,10,6,2.9,False,9108
+ORD-10002,2025-08-23,Islamabad,Federal,Electronics,Bluetooth Speaker,Student,COD,3,5880,5,6,4.7,False,16758
+ORD-10003,2025-11-28,Karachi,Sindh,Clothing,Shalwar Kameez,Consumer,COD,3,2070,5,2,4.8,False,5900
+ORD-10004,2025-02-13,Lahore,Punjab,Electronics,Power Bank,Corporate,COD,1,12310,0,2,3.2,False,12310
+ORD-10005,2025-11-01,Karachi,Sindh,Electronics,Bluetooth Speaker,Consumer,Easypaisa,1,4100,0,4,,False,4100
+ORD-10006,2025-09-03,Hyderabad,Sindh,Electronics,Power Bank,Consumer,COD,4,5500,15,6,3.0,False,18700
+ORD-10007,2025-05-27,Karachi,Sindh,Books,Exam Guide,Consumer,Easypaisa,3,1640,0,4,,False,4920
+ORD-10008,2025-01-19,Karachi,Sindh,Home,Bed Sheet,Corporate,Easypaisa,3,4050,20,4,2.8,False,9720
+ORD-10009,2025-01-02,Peshawar,KPK,Books,Novel,Consumer,,3,1420,0,3,3.3,True,4260
+ORD-10010,2025-07-03,Hyderabad,Sindh,Clothing,Kurta,Consumer,COD,1,2990,0,6,4.1,False,2990
+ORD-10011,2025-04-26,Faisalabad,Punjab,Electronics,Earbuds,Student,COD,1,5000,0,4,4.9,False,5000
+ORD-10012,2025-06-05,Multan,Punjab,Electronics,Smart Watch,Consumer,COD,4,9670,15,5,4.4,False,32878
+ORD-10013,2025-05-09,Peshawar,KPK,Electronics,Smart Watch,Consumer,Card,1,5060,10,4,4.0,False,4554
+ORD-10014,2025-09-16,Multan,Punjab,Electronics,Earbuds,Corporate,Card,4,7400,0,3,3.2,False,29600
+ORD-10015,2025-10-09,Karachi,Sindh,Electronics,Bluetooth Speaker,Student,Easypaisa,4,10650,0,6,3.3,False,42600
+ORD-10016,2025-09-21,Lahore,Punjab,Electronics,Smart Watch,Consumer,Easypaisa,4,9730,5,8,,False,36974
+ORD-10017,2025-06-12,Quetta,Balochistan,Home,Wall Clock,Consumer,JazzCash,2,5090,5,8,4.0,False,9671
+ORD-10018,2025-03-12,Lahore,Punjab,Home,Dinner Set,Consumer,Card,1,4340,0,7,2.8,True,4340
+ORD-10019,2025-01-21,Karachi,Sindh,Clothing,Hoodie,Consumer,COD,2,4480,5,8,4.3,False,8512
+ORD-10020,2025-09-13,Lahore,Punjab,Electronics,Earbuds,Consumer,Easypaisa,4,10370,25,7,3.3,False,31110
+ORD-10021,2025-05-22,Karachi,Sindh,Electronics,Earbuds,Consumer,COD,4,5750,0,6,4.7,False,23000
+ORD-10022,2025-12-21,Lahore,Punjab,Books,Exam Guide,Consumer,COD,4,1010,10,7,4.5,False,3636
+ORD-10023,2025-11-20,Lahore,Punjab,Electronics,Earbuds,Consumer,Easypaisa,1,11520,5,8,3.2,False,10944
+ORD-10024,2025-09-28,Lahore,Punjab,Clothing,Hoodie,Consumer,Card,3,2840,0,2,3.3,False,8520
+ORD-10025,2025-01-14,Faisalabad,Punjab,Clothing,Jeans,Consumer,Card,4,1830,20,4,4.8,False,5856
+ORD-10026,2025-07-02,Lahore,Punjab,Clothing,Hoodie,Student,COD,2,2680,0,7,3.5,False,5360
+ORD-10027,2025-08-21,Faisalabad,Punjab,Electronics,Power Bank,Student,COD,4,3990,15,5,,True,13566
+ORD-10028,2025-05-11,Faisalabad,Punjab,Electronics,Earbuds,Consumer,Card,1,4970,20,2,3.9,True,3976
+ORD-10029,2025-01-22,Lahore,Punjab,Electronics,Power Bank,Corporate,Easypaisa,3,7170,25,5,4.1,False,16132
+ORD-10030,2025-03-24,Karachi,Sindh,Books,Notebook Pack,Student,COD,3,1640,0,8,4.2,False,4920
+ORD-10031,2025-09-04,Islamabad,Federal,Home,Bed Sheet,Consumer,Easypaisa,1,2140,10,1,3.2,False,1926
+ORD-10032,2025-03-23,Lahore,Punjab,Electronics,Smart Watch,Consumer,,1,4070,0,6,3.2,False,4070
+ORD-10033,2025-03-04,Karachi,Sindh,Clothing,Shalwar Kameez,Consumer,COD,1,1510,10,8,3.2,False,1359
+ORD-10034,2025-08-06,Multan,Punjab,Home,Wall Clock,Corporate,Easypaisa,3,2580,20,1,2.7,False,6192
+ORD-10035,2025-05-08,Multan,Punjab,Clothing,Jeans,Consumer,Card,1,3560,15,3,4.6,False,3026
+ORD-10036,2025-02-03,Lahore,Punjab,Books,Exam Guide,Consumer,Card,2,1470,15,5,4.0,False,2499
+ORD-10037,2025-12-28,Karachi,Sindh,Home,Dinner Set,Consumer,COD,2,4090,10,2,3.7,False,7362
+ORD-10038,2025-08-14,Islamabad,Federal,Electronics,Bluetooth Speaker,Consumer,COD,4,7790,25,3,3.9,False,23370
+ORD-10039,2025-07-23,Karachi,Sindh,Books,Novel,Corporate,COD,3,1440,10,6,2.5,False,3888
+ORD-10040,2025-10-28,Lahore,Punjab,Books,Notebook Pack,Student,JazzCash,2,1490,0,5,3.3,False,2980
+ORD-10041,2025-05-21,Karachi,Sindh,Electronics,Earbuds,Consumer,Easypaisa,2,11780,15,6,3.8,False,20026
+ORD-10042,2025-07-17,Lahore,Punjab,Electronics,Bluetooth Speaker,Consumer,COD,2,6640,20,1,,True,10624
+ORD-10043,2025-12-03,Hyderabad,Sindh,Clothing,Kurta,Student,COD,1,3710,5,2,4.5,False,3524
+ORD-10044,2025-04-26,Lahore,Punjab,Electronics,Power Bank,Consumer,Easypaisa,2,12180,20,2,3.6,False,19488
+ORD-10045,2025-09-27,Islamabad,Federal,Clothing,Shalwar Kameez,Corporate,JazzCash,4,3600,10,1,3.7,False,12960
+ORD-10046,2025-06-09,Karachi,Sindh,Books,Novel,Corporate,JazzCash,2,1560,15,2,2.6,False,2652
+ORD-10047,2025-04-16,Islamabad,Federal,Books,Exam Guide,Consumer,Card,4,1340,5,1,3.1,False,5092
+ORD-10048,2025-06-05,Lahore,Punjab,Electronics,Bluetooth Speaker,Consumer,JazzCash,2,11800,5,2,,False,22420
+ORD-10049,2025-12-24,Karachi,Sindh,Electronics,Bluetooth Speaker,Corporate,JazzCash,1,10170,25,8,2.8,False,7628
+ORD-10050,2025-04-01,Lahore,Punjab,Electronics,Earbuds,Consumer,Card,3,4190,15,8,4.8,False,10684
+ORD-10051,2025-01-15,Multan,Punjab,Clothing,Jeans,Consumer,Easypaisa,3,1690,5,7,,False,4816
+ORD-10052,2025-08-10,Lahore,Punjab,Electronics,Earbuds,Corporate,COD,2,6490,5,4,2.7,False,12331
+ORD-10053,2025-01-25,Karachi,Sindh,Electronics,Smart Watch,Consumer,COD,4,5270,10,2,2.8,False,18972
+ORD-10054,2025-05-21,Lahore,Punjab,Electronics,Smart Watch,Consumer,COD,2,11260,0,6,4.2,False,22520
+ORD-10055,2025-07-20,Karachi,Sindh,Clothing,Shalwar Kameez,Consumer,COD,1,3210,10,8,4.9,False,2889
+ORD-10056,2025-08-17,Islamabad,Federal,Home,Dinner Set,Consumer,COD,3,2390,0,1,4.3,False,7170
+ORD-10057,2025-08-08,Lahore,Punjab,Clothing,Kurta,Corporate,JazzCash,2,1980,0,7,2.7,False,3960
+ORD-10058,2025-06-10,Karachi,Sindh,Clothing,Jeans,Corporate,Card,3,2520,5,1,4.6,False,7182
+ORD-10059,2025-03-21,Lahore,Punjab,Home,Bed Sheet,Corporate,COD,4,5380,25,3,4.3,False,16140
+ORD-10060,2025-07-02,Karachi,Sindh,Home,Bed Sheet,Consumer,Card,2,2300,0,3,4.6,True,4600
+ORD-10061,2025-05-19,Lahore,Punjab,Electronics,Bluetooth Speaker,Student,Card,2,7680,10,4,4.5,False,13824
+ORD-10062,2025-03-08,Peshawar,KPK,Books,Exam Guide,Student,Easypaisa,3,1040,15,3,4.7,False,2652
+ORD-10063,2025-05-18,Quetta,Balochistan,Clothing,Kurta,Corporate,Easypaisa,3,2120,0,1,4.4,False,6360
+ORD-10064,2025-12-26,Islamabad,Federal,Home,Wall Clock,Corporate,Card,3,2350,0,4,2.7,False,7050
+ORD-10065,2025-08-17,Karachi,Sindh,Electronics,Smart Watch,Consumer,JazzCash,3,5970,0,5,2.6,False,17910
+ORD-10066,2025-10-22,Karachi,Sindh,Electronics,Smart Watch,Consumer,Easypaisa,1,7190,0,8,2.6,False,7190
+ORD-10067,2025-10-24,Islamabad,Federal,Home,Bed Sheet,Consumer,COD,3,2080,20,5,3.8,False,4992
+ORD-10068,2025-04-19,Sialkot,Punjab,Clothing,Jeans,Consumer,Card,4,2160,10,5,4.1,False,7776
+ORD-10069,2025-07-21,Lahore,Punjab,Clothing,Hoodie,Consumer,COD,1,2100,0,6,2.6,False,2100
+ORD-10070,2025-09-07,Lahore,Punjab,Clothing,Jeans,Consumer,COD,1,4390,10,8,3.6,False,3951
+ORD-10071,2025-02-12,Faisalabad,Punjab,Clothing,Shalwar Kameez,Consumer,Card,1,2270,5,3,2.7,False,2156
+ORD-10072,2025-05-05,Karachi,Sindh,Clothing,Shalwar Kameez,Consumer,JazzCash,3,3380,0,4,4.0,False,10140
+ORD-10073,2025-11-22,Karachi,Sindh,Clothing,Hoodie,Consumer,Card,4,1450,10,7,2.5,False,5220
+ORD-10074,2025-06-01,Lahore,Punjab,Home,Dinner Set,Corporate,COD,3,3560,0,8,3.2,False,10680
+ORD-10075,2025-12-22,Islamabad,Federal,Electronics,Smart Watch,Consumer,Card,1,7220,20,4,4.2,False,5776
+ORD-10076,2025-11-21,Peshawar,KPK,Clothing,Jeans,Corporate,JazzCash,2,1900,0,5,4.9,False,3800
+ORD-10077,2025-12-24,Karachi,Sindh,Electronics,Bluetooth Speaker,Consumer,COD,4,12330,0,6,4.5,False,49320
+ORD-10078,2025-07-08,Peshawar,KPK,Books,Novel,Consumer,COD,2,1560,0,6,,False,3120
+ORD-10079,2025-03-26,Karachi,Sindh,Home,Wall Clock,Consumer,Easypaisa,3,2370,15,3,4.2,False,6044
+ORD-10080,2025-07-19,Lahore,Punjab,Electronics,Earbuds,Consumer,COD,4,7350,0,2,3.3,False,29400
+ORD-10081,2025-07-04,Karachi,Sindh,Clothing,Shalwar Kameez,Corporate,JazzCash,3,2710,15,2,,False,6910
+ORD-10082,2025-11-12,Lahore,Punjab,Clothing,Shalwar Kameez,Student,COD,1,3710,5,1,4.4,False,3524
+ORD-10083,2025-04-14,Lahore,Punjab,Home,Wall Clock,Student,COD,2,3550,10,8,3.0,False,6390
+ORD-10084,2025-02-16,Hyderabad,Sindh,Home,Bed Sheet,Consumer,COD,3,4620,10,2,4.2,False,12474
+ORD-10085,2025-10-17,Peshawar,KPK,Home,Dinner Set,Consumer,COD,1,2210,0,3,3.3,False,2210
+ORD-10086,2025-07-20,Peshawar,KPK,Electronics,Bluetooth Speaker,Consumer,JazzCash,4,5960,10,6,4.4,False,21456
+ORD-10087,2025-01-11,Peshawar,KPK,Home,Dinner Set,Student,JazzCash,4,2350,5,7,2.5,True,8930
+ORD-10088,2025-07-13,Islamabad,Federal,Clothing,Jeans,Student,COD,4,2160,5,8,2.9,False,8208
+ORD-10089,2025-06-06,Lahore,Punjab,Clothing,Hoodie,Consumer,Card,4,2240,10,5,3.9,False,8064
+ORD-10090,2025-06-08,Rawalpindi,Punjab,Electronics,Bluetooth Speaker,Consumer,COD,1,11570,5,6,3.2,False,10992
+ORD-10091,2025-05-27,Karachi,Sindh,Books,Exam Guide,Student,Card,1,1040,15,7,3.3,False,884
+ORD-10092,2025-07-24,Karachi,Sindh,Electronics,Power Bank,Student,COD,1,6110,5,4,3.9,False,5804
+ORD-10093,2025-05-23,Karachi,Sindh,Home,Dinner Set,Consumer,Card,3,5160,10,2,,False,13932
+ORD-10094,2025-08-13,Sialkot,Punjab,Electronics,Earbuds,Consumer,JazzCash,1,4380,0,6,2.4,False,4380
+ORD-10095,2025-08-23,Lahore,Punjab,Electronics,Earbuds,Consumer,Card,4,6320,10,5,,False,22752
+ORD-10096,2025-11-25,Islamabad,Federal,Electronics,Earbuds,Consumer,COD,2,5900,15,6,4.2,False,10030
+ORD-10097,2025-12-26,Lahore,Punjab,Clothing,Jeans,Corporate,COD,4,3290,0,3,3.1,False,13160
+ORD-10098,2025-08-28,Sialkot,Punjab,Clothing,Jeans,Student,COD,2,3620,0,3,4.4,False,7240
+ORD-10099,2025-09-09,Karachi,Sindh,Electronics,Power Bank,Consumer,Card,2,6630,20,7,2.7,False,10608
+ORD-10100,2025-07-14,Peshawar,KPK,Books,Notebook Pack,Consumer,COD,2,720,15,7,4.1,False,1224
+ORD-10101,2025-08-21,Karachi,Sindh,Clothing,Hoodie,Corporate,Easypaisa,3,4090,25,7,4.6,False,9202
+ORD-10102,2025-06-26,Peshawar,KPK,Home,Wall Clock,Consumer,COD,1,2000,0,2,,False,2000
+ORD-10103,2025-09-05,Lahore,Punjab,Home,Wall Clock,Corporate,JazzCash,1,5530,15,4,2.4,False,4700
+ORD-10104,2025-09-09,Faisalabad,Punjab,Electronics,Earbuds,Student,COD,3,8870,0,6,4.7,False,26610
+ORD-10105,2025-09-09,Karachi,Sindh,Clothing,Shalwar Kameez,Consumer,Card,2,1760,0,7,4.3,False,3520
+ORD-10106,2025-01-17,Lahore,Punjab,Clothing,Kurta,Consumer,Easypaisa,2,1630,15,8,2.9,False,2771
+ORD-10107,2025-07-01,Lahore,Punjab,Clothing,Kurta,Student,COD,4,3460,15,2,3.6,False,11764
+ORD-10108,2025-08-20,Lahore,Punjab,Home,Dinner Set,Student,COD,2,4840,5,1,3.5,False,9196
+ORD-10109,2025-08-18,Karachi,Sindh,Books,Notebook Pack,Student,JazzCash,1,1420,15,3,2.6,False,1207
+ORD-10110,2025-11-07,Hyderabad,Sindh,Clothing,Shalwar Kameez,Consumer,JazzCash,1,3130,20,6,4.1,False,2504
+ORD-10111,2025-07-04,Karachi,Sindh,Electronics,Smart Watch,Consumer,COD,2,8170,0,3,3.0,False,16340
+ORD-10112,2025-08-02,Islamabad,Federal,Electronics,Power Bank,Student,Card,2,8570,0,4,4.3,False,17140
+ORD-10113,2025-05-24,Karachi,Sindh,Electronics,Bluetooth Speaker,Consumer,COD,4,7960,10,2,2.5,False,28656
+ORD-10114,2025-08-06,Karachi,Sindh,Clothing,Hoodie,Student,COD,3,4480,0,8,3.9,False,13440
+ORD-10115,2025-12-28,Karachi,Sindh,Home,Wall Clock,Consumer,Card,1,3560,0,1,4.8,False,3560
+ORD-10116,2025-04-22,Karachi,Sindh,Electronics,Power Bank,Consumer,COD,3,10440,0,1,4.8,False,31320
+ORD-10117,2025-01-24,Karachi,Sindh,Clothing,Kurta,Student,COD,1,2860,20,8,4.2,False,2288
+ORD-10118,2025-07-13,Multan,Punjab,Clothing,Kurta,Consumer,Easypaisa,1,3940,10,1,4.1,False,3546
+ORD-10119,2025-06-10,Karachi,Sindh,Electronics,Bluetooth Speaker,Student,COD,4,6260,5,2,4.5,False,23788
+ORD-10120,2025-02-01,Sialkot,Punjab,Home,Wall Clock,Student,COD,2,5730,0,8,4.6,False,11460
+ORD-10121,2025-01-05,Peshawar,KPK,Electronics,Power Bank,Consumer,COD,2,7610,0,6,4.8,False,15220
+ORD-10122,2025-03-13,Hyderabad,Sindh,Electronics,Bluetooth Speaker,Consumer,COD,3,6010,0,7,5.0,False,18030
+ORD-10123,2025-01-05,Karachi,Sindh,Electronics,Smart Watch,Corporate,COD,3,5620,10,2,3.0,False,15174
+ORD-10124,2025-08-26,Lahore,Punjab,Clothing,Hoodie,Consumer,COD,1,3200,10,2,5.0,False,2880
+ORD-10125,2025-04-12,Sialkot,Punjab,Clothing,Shalwar Kameez,Consumer,JazzCash,1,1530,0,1,,True,1530
+ORD-10126,2025-08-27,Lahore,Punjab,Electronics,Smart Watch,Consumer,JazzCash,4,10440,15,1,3.2,False,35496
+ORD-10127,2025-11-06,Quetta,Balochistan,Electronics,Power Bank,Consumer,COD,4,5370,0,4,3.6,False,21480
+ORD-10128,2025-07-23,Lahore,Punjab,Books,Novel,Consumer,COD,4,1200,10,5,4.0,False,4320
+ORD-10129,2025-06-03,Hyderabad,Sindh,Electronics,Earbuds,Consumer,JazzCash,2,11210,0,5,,False,22420
+ORD-10130,2025-07-18,Faisalabad,Punjab,Home,Bed Sheet,Corporate,Easypaisa,1,2690,10,7,3.6,False,2421
+ORD-10131,2025-09-17,Multan,Punjab,Clothing,Hoodie,Student,COD,3,3680,10,8,2.7,False,9936
+ORD-10132,2025-11-20,Quetta,Balochistan,Home,Dinner Set,Student,COD,1,2670,0,5,4.5,False,2670
+ORD-10133,2025-05-26,Islamabad,Federal,Home,Dinner Set,Student,COD,4,3400,5,1,4.6,False,12920
+ORD-10134,2025-10-23,Lahore,Punjab,Clothing,Shalwar Kameez,Corporate,JazzCash,2,4050,5,3,4.2,False,7695
+ORD-10135,2025-08-26,Islamabad,Federal,Electronics,Smart Watch,Consumer,COD,3,7250,10,6,3.9,False,19575
+ORD-10136,2025-01-10,Karachi,Sindh,Clothing,Hoodie,Consumer,COD,1,4290,0,2,4.5,False,4290
+ORD-10137,2025-03-13,Sialkot,Punjab,Electronics,Bluetooth Speaker,Student,Easypaisa,2,7830,10,4,4.1,False,14094
+ORD-10138,2025-07-19,Lahore,Punjab,Clothing,Hoodie,Consumer,COD,1,2820,15,5,4.5,False,2397
+ORD-10139,2025-10-22,Lahore,Punjab,Books,Novel,Consumer,COD,4,1020,20,7,3.5,False,3264
+ORD-10140,2025-10-01,Karachi,Sindh,Books,Novel,Corporate,JazzCash,3,1270,5,7,2.6,False,3620
+ORD-10141,2025-05-25,Quetta,Balochistan,Electronics,Earbuds,Consumer,Card,3,7320,0,4,3.7,False,21960
+ORD-10142,2025-02-17,Rawalpindi,Punjab,Home,Dinner Set,Consumer,COD,1,5760,0,5,3.3,False,5760
+ORD-10143,2025-06-03,Faisalabad,Punjab,Electronics,Earbuds,Consumer,Card,4,7030,20,1,4.2,False,22496
+ORD-10144,2025-08-01,Karachi,Sindh,Clothing,Shalwar Kameez,Student,COD,2,1940,20,5,4.9,False,3104
+ORD-10145,2025-05-22,Lahore,Punjab,Home,Wall Clock,Corporate,COD,1,4710,15,6,4.2,False,4004
+ORD-10146,2025-06-22,Rawalpindi,Punjab,Home,Wall Clock,Corporate,COD,2,4120,0,2,3.0,False,8240
+ORD-10147,2025-04-02,Quetta,Balochistan,Electronics,Power Bank,Corporate,COD,1,6260,5,1,2.6,False,5947
+ORD-10148,2025-02-15,Karachi,Sindh,Electronics,Earbuds,Consumer,Card,3,6840,0,5,,True,20520
+ORD-10149,2025-10-03,Islamabad,Federal,Home,Wall Clock,Corporate,Easypaisa,2,5880,15,5,3.3,False,9996
+ORD-10150,2025-08-01,Peshawar,KPK,Electronics,Smart Watch,Student,JazzCash,1,11490,0,5,3.1,False,11490
+ORD-10151,2025-12-01,Hyderabad,Sindh,Home,Dinner Set,Student,Easypaisa,3,3610,0,5,4.6,False,10830
+ORD-10152,2025-03-06,Faisalabad,Punjab,Electronics,Earbuds,Consumer,COD,4,7460,15,7,2.4,False,25364
+ORD-10153,2025-11-26,Karachi,Sindh,Clothing,Kurta,Consumer,Card,1,1990,5,2,3.2,False,1890
+ORD-10154,2025-07-20,Karachi,Sindh,Electronics,Smart Watch,Consumer,JazzCash,4,11380,5,2,3.8,False,43244
+ORD-10155,2025-07-11,Hyderabad,Sindh,Electronics,Earbuds,Consumer,COD,3,11110,0,6,3.6,False,33330
+ORD-10156,2025-10-23,Quetta,Balochistan,Electronics,Power Bank,Corporate,Card,2,8390,10,6,4.6,False,15102
+ORD-10157,2025-03-15,Karachi,Sindh,Clothing,Shalwar Kameez,Student,COD,4,2260,5,3,2.9,False,8588
+ORD-10158,2025-02-25,Lahore,Punjab,Books,Notebook Pack,Consumer,COD,3,1680,0,8,2.8,False,5040
+ORD-10159,2025-04-03,Lahore,Punjab,Clothing,Kurta,Consumer,JazzCash,1,3800,10,2,2.8,True,3420
+ORD-10160,2025-12-28,Lahore,Punjab,Clothing,Shalwar Kameez,Consumer,COD,2,3970,15,7,4.7,False,6749
+ORD-10161,2025-05-07,Karachi,Sindh,Clothing,Kurta,Consumer,Card,4,3940,10,7,3.5,False,14184
+ORD-10162,2025-04-23,Multan,Punjab,Electronics,Smart Watch,Consumer,Card,2,7850,10,7,3.6,False,14130
+ORD-10163,2025-03-13,Karachi,Sindh,Electronics,Smart Watch,Consumer,Card,3,6000,15,5,,False,15300
+ORD-10164,2025-10-12,Islamabad,Federal,Electronics,Power Bank,Student,Card,1,8750,15,5,4.6,False,7438
+ORD-10165,2025-09-25,Sialkot,Punjab,Electronics,Power Bank,Consumer,COD,3,4860,10,2,4.4,False,13122
+ORD-10166,2025-01-17,Lahore,Punjab,Clothing,Jeans,Consumer,JazzCash,3,1900,10,8,,False,5130
+ORD-10167,2025-09-24,Lahore,Punjab,Clothing,Kurta,Corporate,Card,4,3510,0,4,3.4,False,14040
+ORD-10168,2025-10-19,Karachi,Sindh,Clothing,Jeans,Student,Easypaisa,1,2010,10,7,4.0,False,1809
+ORD-10169,2025-01-16,Sialkot,Punjab,Electronics,Power Bank,Consumer,COD,1,12090,10,6,4.4,False,10881
+ORD-10170,2025-07-23,Lahore,Punjab,Electronics,Power Bank,Consumer,JazzCash,3,9270,0,5,2.7,False,27810
+ORD-10171,2025-09-25,Karachi,Sindh,Home,Dinner Set,Consumer,COD,4,2840,20,7,2.8,False,9088
+ORD-10172,2025-10-13,Karachi,Sindh,Electronics,Earbuds,Consumer,COD,2,10460,5,1,4.2,False,19874
+ORD-10173,2025-10-27,Islamabad,Federal,Electronics,Power Bank,Consumer,JazzCash,4,10400,0,6,4.0,False,41600
+ORD-10174,2025-02-15,Karachi,Sindh,Books,Exam Guide,Consumer,COD,1,740,0,4,3.6,False,740
+ORD-10175,2025-03-12,Islamabad,Federal,Home,Dinner Set,Corporate,,4,4840,15,3,2.6,False,16456
+ORD-10176,2025-11-04,Islamabad,Federal,Electronics,Smart Watch,Consumer,Easypaisa,4,6060,0,1,2.5,False,24240
+ORD-10177,2025-07-21,Karachi,Sindh,Clothing,Shalwar Kameez,Consumer,Card,2,3390,5,1,,True,6441
+ORD-10178,2025-02-08,Peshawar,KPK,Electronics,Smart Watch,Student,COD,3,5570,5,5,3.2,False,15874
+ORD-10179,2025-03-15,Karachi,Sindh,Clothing,Shalwar Kameez,Consumer,Easypaisa,1,1500,5,1,4.9,False,1425
+ORD-10180,2025-12-13,Peshawar,KPK,Books,Novel,Consumer,Easypaisa,2,630,10,7,3.3,False,1134
+ORD-10181,2025-06-09,Karachi,Sindh,Electronics,Power Bank,Corporate,COD,4,11370,5,2,2.7,False,43206
+ORD-10182,2025-07-12,Islamabad,Federal,Books,Exam Guide,Consumer,Easypaisa,1,1210,0,2,3.9,False,1210
+ORD-10183,2025-07-26,Karachi,Sindh,Electronics,Power Bank,Consumer,Easypaisa,4,7240,0,1,,False,28960
+ORD-10184,2025-03-24,Peshawar,KPK,Clothing,Shalwar Kameez,Corporate,Easypaisa,1,1960,0,1,3.3,False,1960
+ORD-10185,2025-05-03,Sialkot,Punjab,Clothing,Jeans,Consumer,COD,3,3160,0,6,2.6,False,9480
+ORD-10186,2025-09-04,Sialkot,Punjab,Clothing,Jeans,Corporate,COD,1,2110,25,1,4.2,False,1582
+ORD-10187,2025-09-19,Islamabad,Federal,Electronics,Power Bank,Student,Card,3,5340,15,7,3.8,False,13617
+ORD-10188,2025-07-27,Karachi,Sindh,Electronics,Power Bank,Student,Easypaisa,2,7150,20,6,4.8,False,11440
+ORD-10189,2025-12-18,Lahore,Punjab,Electronics,Power Bank,Student,Card,3,5530,0,4,4.4,False,16590
+ORD-10190,2025-02-01,Lahore,Punjab,Electronics,Earbuds,Student,Card,2,11860,0,2,4.9,False,23720
+ORD-10191,2025-05-14,Lahore,Punjab,Clothing,Jeans,Consumer,COD,3,4210,20,3,3.6,False,10104
+ORD-10192,2025-08-10,Peshawar,KPK,Home,Bed Sheet,Consumer,Easypaisa,2,3040,0,3,3.9,False,6080
+ORD-10193,2025-01-17,Lahore,Punjab,Clothing,Hoodie,Consumer,COD,2,3390,20,7,4.4,False,5424
+ORD-10194,2025-12-05,Islamabad,Federal,Electronics,Earbuds,Corporate,COD,2,6680,5,1,3.5,False,12692
+ORD-10195,2025-11-20,Faisalabad,Punjab,Clothing,Hoodie,Consumer,JazzCash,3,3750,25,8,2.7,False,8438
+ORD-10196,2025-12-10,Islamabad,Federal,Home,Wall Clock,Student,COD,2,5860,5,7,3.5,False,11134
+ORD-10197,2025-12-26,Peshawar,KPK,Books,Notebook Pack,Consumer,Easypaisa,2,1180,0,3,4.5,False,2360
+ORD-10198,2025-12-15,Sialkot,Punjab,Clothing,Hoodie,Corporate,,2,3950,10,5,2.9,True,7110
+ORD-10199,2025-06-10,Karachi,Sindh,Clothing,Jeans,Consumer,COD,1,4450,5,8,4.9,False,4228
+ORD-10200,2025-12-22,Lahore,Punjab,Home,Wall Clock,Consumer,Easypaisa,2,3070,25,5,2.5,False,4605
+ORD-10201,2025-06-16,Lahore,Punjab,Books,Novel,Consumer,,3,600,0,4,3.8,False,1800
+ORD-10202,2025-09-04,Peshawar,KPK,Clothing,Shalwar Kameez,Consumer,COD,4,4180,0,7,3.7,False,16720
+ORD-10203,2025-10-22,Karachi,Sindh,Clothing,Hoodie,Consumer,JazzCash,2,3750,10,7,2.4,False,6750
+ORD-10204,2025-08-03,Karachi,Sindh,Electronics,Bluetooth Speaker,Corporate,COD,2,8740,0,8,3.3,False,17480
+ORD-10205,2025-04-16,Islamabad,Federal,Home,Dinner Set,Consumer,Easypaisa,4,3920,0,1,4.3,False,15680
+ORD-10206,2025-11-07,Karachi,Sindh,Clothing,Jeans,Consumer,Easypaisa,4,1810,25,3,4.9,False,5430
+ORD-10207,2025-01-20,Rawalpindi,Punjab,Electronics,Smart Watch,Consumer,Easypaisa,4,5130,5,3,4.7,False,19494
+ORD-10208,2025-04-27,Faisalabad,Punjab,Home,Bed Sheet,Consumer,COD,3,2830,10,4,4.2,False,7641
+ORD-10209,2025-08-01,Lahore,Punjab,Books,Exam Guide,Corporate,COD,1,1580,20,7,3.9,False,1264
+ORD-10210,2025-02-25,Islamabad,Federal,Electronics,Bluetooth Speaker,Student,COD,2,8590,5,6,4.5,False,16321
+ORD-10211,2025-09-24,Faisalabad,Punjab,Electronics,Earbuds,Consumer,COD,3,10980,10,8,,False,29646
+ORD-10212,2025-01-02,Karachi,Sindh,Electronics,Bluetooth Speaker,Consumer,COD,1,9840,15,7,4.4,False,8364
+ORD-10213,2025-06-27,Karachi,Sindh,Books,Novel,Consumer,JazzCash,1,970,10,6,3.8,False,873
+ORD-10214,2025-02-11,Lahore,Punjab,Clothing,Hoodie,Consumer,Easypaisa,3,3600,20,3,4.5,False,8640
+ORD-10215,2025-05-15,Multan,Punjab,Electronics,Power Bank,Consumer,COD,4,10530,0,8,4.3,False,42120
+ORD-10216,2025-09-02,Karachi,Sindh,Clothing,Jeans,Corporate,JazzCash,1,2140,10,1,3.3,False,1926
+ORD-10217,2025-01-16,Peshawar,KPK,Electronics,Smart Watch,Consumer,COD,3,9840,0,3,,False,29520
+ORD-10218,2025-09-02,Lahore,Punjab,Home,Wall Clock,Consumer,COD,1,4420,20,1,2.6,False,3536
+ORD-10219,2025-10-18,Lahore,Punjab,Clothing,Shalwar Kameez,Consumer,,4,3690,0,4,,False,14760
+ORD-10220,2025-07-17,Hyderabad,Sindh,Electronics,Smart Watch,Consumer,COD,1,9620,15,4,3.3,False,8177
+ORD-10221,2025-09-11,Lahore,Punjab,Electronics,Earbuds,Corporate,Card,4,10180,5,2,3.7,False,38684
+ORD-10222,2025-04-17,Rawalpindi,Punjab,Electronics,Power Bank,Consumer,COD,1,6980,0,6,2.7,False,6980
+ORD-10223,2025-04-15,Lahore,Punjab,Electronics,Bluetooth Speaker,Consumer,COD,4,10980,0,5,4.0,False,43920
+ORD-10224,2025-04-17,Karachi,Sindh,Electronics,Smart Watch,Student,COD,3,5720,25,3,4.9,True,12870
+ORD-10225,2025-11-18,Multan,Punjab,Electronics,Smart Watch,Corporate,Easypaisa,1,9140,0,4,3.2,False,9140
+ORD-10226,2025-04-11,Peshawar,KPK,Electronics,Power Bank,Student,COD,3,8150,15,1,2.7,False,20782
+ORD-10227,2025-02-05,Faisalabad,Punjab,Electronics,Earbuds,Student,JazzCash,2,7040,10,8,3.6,False,12672
+ORD-10228,2025-05-07,Lahore,Punjab,Electronics,Power Bank,Student,Card,3,4640,15,8,3.0,False,11832
+ORD-10229,2025-02-26,Karachi,Sindh,Electronics,Smart Watch,Consumer,COD,4,6760,15,6,4.2,False,22984
+ORD-10230,2025-04-23,Peshawar,KPK,Books,Novel,Consumer,COD,3,1450,10,8,2.5,False,3915
+ORD-10231,2025-01-08,Lahore,Punjab,Electronics,Power Bank,Student,COD,4,10930,25,7,2.7,False,32790
+ORD-10232,2025-03-05,Karachi,Sindh,Clothing,Shalwar Kameez,Consumer,Card,1,2630,5,3,4.6,False,2498
+ORD-10233,2025-05-15,Multan,Punjab,Home,Wall Clock,Consumer,COD,1,5520,5,8,4.2,False,5244
+ORD-10234,2025-02-12,Hyderabad,Sindh,Clothing,Shalwar Kameez,Consumer,Easypaisa,1,1920,10,1,3.8,False,1728
+ORD-10235,2025-07-24,Multan,Punjab,Clothing,Kurta,Consumer,Easypaisa,1,2230,10,2,4.3,False,2007
+ORD-10236,2025-05-11,Karachi,Sindh,Clothing,Hoodie,Consumer,COD,2,3040,5,3,2.9,False,5776
+ORD-10237,2025-01-25,Peshawar,KPK,Home,Wall Clock,Student,COD,1,3820,0,8,2.8,False,3820
+ORD-10238,2025-09-04,Lahore,Punjab,Electronics,Power Bank,Consumer,JazzCash,4,7190,0,4,4.2,False,28760
+ORD-10239,2025-09-04,Karachi,Sindh,Books,Exam Guide,Student,COD,3,1500,5,6,2.7,False,4275
+ORD-10240,2025-02-26,Multan,Punjab,Home,Bed Sheet,Consumer,JazzCash,4,4180,5,2,3.6,False,15884
+ORD-10241,2025-11-27,Islamabad,Federal,Books,Notebook Pack,Consumer,COD,4,1070,0,1,2.7,False,4280
+ORD-10242,2025-01-13,Hyderabad,Sindh,Books,Exam Guide,Consumer,Easypaisa,1,820,5,6,2.6,False,779
+ORD-10243,2025-02-09,Faisalabad,Punjab,Electronics,Power Bank,Consumer,Easypaisa,1,11330,20,4,4.5,False,9064
+ORD-10244,2025-08-16,Karachi,Sindh,Books,Notebook Pack,Consumer,Card,2,1360,0,8,4.0,False,2720
+ORD-10245,2025-05-06,Hyderabad,Sindh,Home,Wall Clock,Corporate,COD,1,5370,25,1,3.1,True,4028
+ORD-10246,2025-04-03,Quetta,Balochistan,Home,Dinner Set,Corporate,Card,1,4970,10,8,4.4,False,4473
+ORD-10247,2025-09-02,Lahore,Punjab,Electronics,Earbuds,Consumer,Card,4,8540,10,7,4.3,False,30744
+ORD-10248,2025-05-09,Karachi,Sindh,Electronics,Smart Watch,Corporate,Card,4,12080,20,1,4.7,False,38656
+ORD-10249,2025-12-24,Lahore,Punjab,Clothing,Kurta,Student,COD,4,4050,0,2,,False,16200
+ORD-10250,2025-03-23,Karachi,Sindh,Electronics,Bluetooth Speaker,Consumer,COD,2,12090,10,3,3.5,False,21762
+ORD-10251,2025-02-18,Islamabad,Federal,Home,Wall Clock,Consumer,Card,3,1900,20,2,4.5,False,4560
+ORD-10252,2025-11-01,Karachi,Sindh,Books,Exam Guide,Consumer,COD,4,560,15,4,4.5,False,1904
+ORD-10253,2025-06-21,Lahore,Punjab,Books,Exam Guide,Consumer,Easypaisa,3,1170,20,5,4.0,False,2808
+ORD-10254,2025-09-10,Karachi,Sindh,Home,Bed Sheet,Consumer,Easypaisa,1,2890,5,1,3.6,False,2746
+ORD-10255,2025-07-14,Faisalabad,Punjab,Electronics,Smart Watch,Consumer,JazzCash,4,11200,10,8,3.7,False,40320
+ORD-10256,2025-09-14,Quetta,Balochistan,Clothing,Shalwar Kameez,Consumer,COD,2,2650,10,5,2.8,False,4770
+ORD-10257,2025-04-04,Karachi,Sindh,Clothing,Jeans,Corporate,JazzCash,4,2380,0,1,4.4,False,9520
+ORD-10258,2025-12-12,Lahore,Punjab,Electronics,Smart Watch,Student,Easypaisa,4,9890,10,6,,False,35604
+ORD-10259,2025-07-04,Rawalpindi,Punjab,Electronics,Smart Watch,Consumer,COD,3,10390,5,4,4.2,False,29612
+ORD-10260,2025-03-23,Karachi,Sindh,Electronics,Smart Watch,Student,JazzCash,2,6960,25,1,4.0,False,10440
+ORD-10261,2025-10-20,Karachi,Sindh,Electronics,Power Bank,Consumer,Card,2,10620,20,3,,False,16992
+ORD-10262,2025-03-21,Karachi,Sindh,Electronics,Power Bank,Consumer,Card,2,5280,10,8,2.7,False,9504
+ORD-10263,2025-08-14,Sialkot,Punjab,Electronics,Bluetooth Speaker,Consumer,COD,4,11630,10,5,2.5,False,41868
+ORD-10264,2025-05-04,Faisalabad,Punjab,Books,Notebook Pack,Consumer,JazzCash,1,970,0,3,4.3,False,970
+ORD-10265,2025-06-12,Karachi,Sindh,Electronics,Power Bank,Consumer,Card,4,5770,0,6,3.8,False,23080
+ORD-10266,2025-06-25,Quetta,Balochistan,Clothing,Jeans,Consumer,JazzCash,4,3130,0,2,5.0,True,12520
+ORD-10267,2025-12-21,Lahore,Punjab,Clothing,Shalwar Kameez,Consumer,COD,4,1670,0,7,3.5,False,6680
+ORD-10268,2025-07-05,Hyderabad,Sindh,Electronics,Earbuds,Consumer,COD,4,9490,25,7,,False,28470
+ORD-10269,2025-11-23,Lahore,Punjab,Books,Novel,Corporate,COD,3,1310,5,6,2.9,True,3734
+ORD-10270,2025-05-21,Sialkot,Punjab,Clothing,Shalwar Kameez,Corporate,COD,3,2670,15,7,3.7,False,6808
+ORD-10271,2025-07-02,Lahore,Punjab,Home,Bed Sheet,Student,COD,1,5650,5,7,4.4,False,5368
+ORD-10272,2025-06-17,Faisalabad,Punjab,Electronics,Earbuds,Consumer,COD,4,6810,5,7,4.7,False,25878
+ORD-10273,2025-02-24,Karachi,Sindh,Electronics,Earbuds,Student,COD,1,9590,25,1,3.9,False,7192
+ORD-10274,2025-01-24,Islamabad,Federal,Electronics,Smart Watch,Consumer,COD,3,7610,20,1,4.4,False,18264
+ORD-10275,2025-08-15,Multan,Punjab,Clothing,Hoodie,Consumer,,3,2350,0,4,4.7,False,7050
+ORD-10276,2025-09-17,Karachi,Sindh,Clothing,Shalwar Kameez,Corporate,Card,1,3770,5,6,4.3,True,3582
+ORD-10277,2025-08-22,Lahore,Punjab,Electronics,Smart Watch,Student,COD,2,8220,0,2,2.7,True,16440
+ORD-10278,2025-10-04,Lahore,Punjab,Clothing,Kurta,Consumer,Easypaisa,1,2470,0,6,2.7,False,2470
+ORD-10279,2025-06-16,Karachi,Sindh,Clothing,Hoodie,Consumer,Easypaisa,2,3640,0,2,4.2,False,7280
+ORD-10280,2025-05-16,Sialkot,Punjab,Electronics,Power Bank,Consumer,COD,1,7500,15,3,4.5,False,6375
+ORD-10281,2025-02-09,Karachi,Sindh,Electronics,Bluetooth Speaker,Consumer,COD,4,5010,10,7,2.5,False,18036
+ORD-10282,2025-08-27,Quetta,Balochistan,Home,Dinner Set,Consumer,Card,4,3770,15,4,4.2,False,12818
+ORD-10283,2025-09-25,Lahore,Punjab,Clothing,Shalwar Kameez,Consumer,JazzCash,4,2400,0,4,4.6,False,9600
+ORD-10284,2025-10-13,Karachi,Sindh,Clothing,Jeans,Consumer,COD,3,1970,10,4,2.8,False,5319
+ORD-10285,2025-05-08,Faisalabad,Punjab,Electronics,Bluetooth Speaker,Consumer,COD,1,4400,20,2,4.1,False,3520
+ORD-10286,2025-09-05,Peshawar,KPK,Clothing,Shalwar Kameez,Consumer,Easypaisa,4,1590,25,5,2.5,False,4770
+ORD-10287,2025-05-02,Karachi,Sindh,Home,Dinner Set,Consumer,COD,2,3760,20,4,4.1,False,6016
+ORD-10288,2025-09-13,Islamabad,Federal,Home,Dinner Set,Student,COD,3,3460,5,4,2.5,False,9861
+ORD-10289,2025-05-04,Lahore,Punjab,Clothing,Kurta,Student,COD,1,2380,0,4,3.6,False,2380
+ORD-10290,2025-07-12,Multan,Punjab,Books,Exam Guide,Consumer,Easypaisa,4,820,5,5,,False,3116
+ORD-10291,2025-05-27,Faisalabad,Punjab,Electronics,Earbuds,Corporate,,4,7740,5,8,4.9,False,29412
+ORD-10292,2025-09-07,Islamabad,Federal,Electronics,Power Bank,Consumer,JazzCash,1,6320,0,4,3.3,True,6320
+ORD-10293,2025-10-17,Peshawar,KPK,Books,Novel,Student,COD,4,1410,20,7,4.9,False,4512
+ORD-10294,2025-04-05,Islamabad,Federal,Clothing,Jeans,Consumer,JazzCash,1,2480,5,2,4.1,False,2356
+ORD-10295,2025-10-21,Faisalabad,Punjab,Home,Dinner Set,Corporate,COD,2,5390,5,2,3.5,False,10241
+ORD-10296,2025-06-10,Karachi,Sindh,Clothing,Shalwar Kameez,Consumer,COD,4,3080,5,3,4.2,False,11704
+ORD-10297,2025-07-09,Peshawar,KPK,Home,Dinner Set,Consumer,Card,1,2860,0,4,3.8,False,2860
+ORD-10298,2025-06-27,Lahore,Punjab,Clothing,Kurta,Consumer,Easypaisa,1,4340,5,5,3.7,False,4123
+ORD-10299,2025-04-06,Lahore,Punjab,Clothing,Jeans,Student,COD,2,4530,10,1,3.5,False,8154
+ORD-10300,2025-08-08,Karachi,Sindh,Electronics,Earbuds,Consumer,COD,4,3950,15,3,2.4,False,13430
+ORD-10301,2025-08-05,Sialkot,Punjab,Electronics,Bluetooth Speaker,Corporate,COD,2,9080,20,5,4.9,False,14528
+ORD-10302,2025-06-14,Quetta,Balochistan,Clothing,Shalwar Kameez,Consumer,COD,4,2100,25,6,2.6,False,6300
+ORD-10303,2025-08-20,Quetta,Balochistan,Clothing,Kurta,Corporate,JazzCash,2,2570,0,2,3.1,False,5140
+ORD-10304,2025-11-19,Sialkot,Punjab,Clothing,Hoodie,Consumer,COD,3,3350,0,2,4.5,False,10050
+ORD-10305,2025-02-22,Lahore,Punjab,Home,Bed Sheet,Consumer,COD,1,5760,0,5,3.1,False,5760
+ORD-10306,2025-02-24,Lahore,Punjab,Electronics,Power Bank,Consumer,COD,4,11180,10,2,3.2,False,40248
+ORD-10307,2025-07-22,Islamabad,Federal,Clothing,Jeans,Consumer,COD,4,4370,20,7,3.2,False,13984
+ORD-10308,2025-05-28,Karachi,Sindh,Electronics,Power Bank,Consumer,COD,3,9310,10,5,3.2,False,25137
+ORD-10309,2025-12-27,Faisalabad,Punjab,Home,Dinner Set,Corporate,Card,4,4530,5,3,4.6,False,17214
+ORD-10310,2025-11-18,Multan,Punjab,Clothing,Jeans,Consumer,Card,4,2630,20,8,4.3,False,8416
+ORD-10311,2025-02-15,Lahore,Punjab,Electronics,Smart Watch,Corporate,Card,1,9050,0,7,4.3,False,9050
+ORD-10312,2025-10-23,Multan,Punjab,Clothing,Hoodie,Corporate,COD,2,2000,0,7,4.4,False,4000
+ORD-10313,2025-03-24,Karachi,Sindh,Clothing,Shalwar Kameez,Consumer,COD,3,1840,0,3,3.5,False,5520
+ORD-10314,2025-06-18,Lahore,Punjab,Electronics,Power Bank,Consumer,Easypaisa,4,11700,15,4,4.3,False,39780
+ORD-10315,2025-02-14,Lahore,Punjab,Electronics,Power Bank,Consumer,Card,2,11740,0,3,2.7,False,23480
+ORD-10316,2025-02-05,Karachi,Sindh,Clothing,Shalwar Kameez,Student,COD,3,2060,0,7,4.5,False,6180
+ORD-10317,2025-01-17,Peshawar,KPK,Clothing,Shalwar Kameez,Consumer,COD,1,3220,10,6,5.0,False,2898
+ORD-10318,2025-01-06,Peshawar,KPK,Electronics,Power Bank,Consumer,Card,1,5350,20,7,4.1,False,4280
+ORD-10319,2025-04-20,Karachi,Sindh,Electronics,Earbuds,Student,Card,2,3970,0,2,3.7,False,7940
+ORD-10320,2025-09-05,Karachi,Sindh,Electronics,Bluetooth Speaker,Student,COD,2,8220,5,7,3.3,False,15618
+ORD-10321,2025-12-08,Islamabad,Federal,Clothing,Hoodie,Consumer,JazzCash,1,3810,25,4,2.9,False,2858
+ORD-10322,2025-06-25,Faisalabad,Punjab,Clothing,Hoodie,Consumer,COD,1,1940,5,8,3.1,False,1843
+ORD-10323,2025-10-20,Islamabad,Federal,Electronics,Power Bank,Student,Card,2,5690,0,7,3.4,False,11380
+ORD-10324,2025-05-04,Lahore,Punjab,Electronics,Smart Watch,Consumer,JazzCash,1,5180,25,4,2.4,False,3885
+ORD-10325,2025-06-04,Faisalabad,Punjab,Clothing,Kurta,Corporate,Easypaisa,1,2300,0,1,2.9,False,2300
+ORD-10326,2025-10-08,Rawalpindi,Punjab,Clothing,Jeans,Corporate,COD,4,3190,0,1,4.8,False,12760
+ORD-10327,2025-05-09,Lahore,Punjab,Home,Dinner Set,Student,COD,3,5220,0,5,4.2,False,15660
+ORD-10328,2025-05-16,Karachi,Sindh,Home,Bed Sheet,Consumer,Card,2,3920,5,7,4.7,False,7448
+ORD-10329,2025-06-21,Peshawar,KPK,Clothing,Hoodie,Consumer,Card,1,2840,5,5,3.1,False,2698
+ORD-10330,2025-10-26,Lahore,Punjab,Home,Dinner Set,Student,Card,4,2160,0,3,3.0,False,8640
+ORD-10331,2025-04-16,Karachi,Sindh,Clothing,Jeans,Consumer,Card,1,2040,10,1,3.1,False,1836
+ORD-10332,2025-08-03,Lahore,Punjab,Home,Bed Sheet,Consumer,COD,4,5570,10,8,4.5,False,20052
+ORD-10333,2025-10-25,Lahore,Punjab,Home,Bed Sheet,Student,COD,2,4690,0,4,3.0,False,9380
+ORD-10334,2025-02-06,Quetta,Balochistan,Home,Bed Sheet,Consumer,COD,4,4420,5,6,4.3,False,16796
+ORD-10335,2025-12-13,Sialkot,Punjab,Clothing,Hoodie,Corporate,Card,4,2080,0,6,4.3,False,8320
+ORD-10336,2025-07-07,Karachi,Sindh,Clothing,Jeans,Consumer,COD,3,4250,0,1,,False,12750
+ORD-10337,2025-02-10,Hyderabad,Sindh,Electronics,Power Bank,Consumer,Card,2,5170,5,5,3.5,False,9823
+ORD-10338,2025-10-22,Karachi,Sindh,Electronics,Power Bank,Consumer,Easypaisa,3,6810,15,2,3.1,False,17366
+ORD-10339,2025-12-17,Sialkot,Punjab,Clothing,Kurta,Student,JazzCash,3,1760,20,6,3.1,False,4224
+ORD-10340,2025-03-15,Faisalabad,Punjab,Clothing,Shalwar Kameez,Student,Card,4,1470,5,5,3.1,False,5586
+ORD-10341,2025-08-02,Islamabad,Federal,Electronics,Earbuds,Corporate,COD,2,11390,10,3,2.6,False,20502
+ORD-10342,2025-10-21,Karachi,Sindh,Electronics,Bluetooth Speaker,Consumer,COD,3,7290,10,5,,False,19683
+ORD-10343,2025-12-07,Multan,Punjab,Electronics,Earbuds,Corporate,Card,1,9750,10,7,3.6,False,8775
+ORD-10344,2025-12-25,Lahore,Punjab,Electronics,Smart Watch,Student,JazzCash,3,10760,0,8,4.2,False,32280
+ORD-10345,2025-05-22,Lahore,Punjab,Electronics,Power Bank,Consumer,Easypaisa,4,9030,0,3,4.8,False,36120
+ORD-10346,2025-08-17,Lahore,Punjab,Electronics,Earbuds,Consumer,COD,3,6780,0,7,4.3,False,20340
+ORD-10347,2025-08-23,Karachi,Sindh,Clothing,Kurta,Consumer,JazzCash,3,3320,5,8,4.9,False,9462
+ORD-10348,2025-11-15,Islamabad,Federal,Books,Novel,Consumer,JazzCash,4,650,0,2,4.3,False,2600
+ORD-10349,2025-12-17,Lahore,Punjab,Home,Bed Sheet,Consumer,COD,3,3630,25,8,3.3,True,8168
+ORD-10350,2025-11-09,Lahore,Punjab,Electronics,Power Bank,Consumer,Easypaisa,3,7230,20,7,2.6,True,17352
+ORD-10351,2025-11-13,Rawalpindi,Punjab,Electronics,Earbuds,Consumer,Easypaisa,1,8400,15,6,3.4,False,7140
+ORD-10352,2025-06-04,Lahore,Punjab,Electronics,Bluetooth Speaker,Consumer,COD,2,12120,0,7,4.9,False,24240
+ORD-10353,2025-04-23,Lahore,Punjab,Clothing,Shalwar Kameez,Corporate,JazzCash,2,4400,0,7,5.0,False,8800
+ORD-10354,2025-04-08,Sialkot,Punjab,Home,Bed Sheet,Student,COD,1,3630,20,4,4.5,False,2904
+ORD-10355,2025-05-11,Lahore,Punjab,Home,Bed Sheet,Student,Card,3,4380,20,8,2.8,False,10512
+ORD-10356,2025-08-23,Islamabad,Federal,Books,Notebook Pack,Student,Card,4,820,5,7,3.1,False,3116
+ORD-10357,2025-11-28,Islamabad,Federal,Clothing,Shalwar Kameez,Consumer,JazzCash,1,2830,10,2,3.6,False,2547
+ORD-10358,2025-11-27,Lahore,Punjab,Clothing,Kurta,Consumer,Card,4,1570,15,8,4.0,False,5338
+ORD-10359,2025-11-21,Quetta,Balochistan,Electronics,Earbuds,Consumer,Easypaisa,1,5760,0,8,4.9,False,5760
+ORD-10360,2025-03-24,Lahore,Punjab,Clothing,Shalwar Kameez,Student,JazzCash,3,4010,0,2,3.8,False,12030
+ORD-10361,2025-06-19,Karachi,Sindh,Clothing,Kurta,Consumer,JazzCash,2,4140,15,2,3.1,False,7038
+ORD-10362,2025-10-13,Karachi,Sindh,Electronics,Bluetooth Speaker,Student,COD,3,9460,0,1,4.5,False,28380
+ORD-10363,2025-03-09,Faisalabad,Punjab,Electronics,Earbuds,Consumer,Easypaisa,4,7400,0,3,4.9,False,29600
+ORD-10364,2025-05-16,Lahore,Punjab,Electronics,Power Bank,Consumer,JazzCash,1,8690,10,2,4.7,False,7821
+ORD-10365,2025-06-23,Faisalabad,Punjab,Electronics,Smart Watch,Consumer,Card,2,8100,0,5,3.2,False,16200
+ORD-10366,2025-12-07,Karachi,Sindh,Books,Novel,Corporate,JazzCash,1,1260,5,1,3.9,False,1197
+ORD-10367,2025-04-25,Karachi,Sindh,Home,Wall Clock,Consumer,Easypaisa,1,4670,20,5,4.3,False,3736
+ORD-10368,2025-12-25,Sialkot,Punjab,Clothing,Hoodie,Student,Easypaisa,4,3760,10,1,4.8,False,13536
+ORD-10369,2025-01-21,Karachi,Sindh,Electronics,Power Bank,Corporate,COD,3,11300,20,5,5.0,False,27120
+ORD-10370,2025-02-08,Islamabad,Federal,Electronics,Power Bank,Corporate,Easypaisa,4,4890,20,8,4.5,False,15648
+ORD-10371,2025-12-25,Multan,Punjab,Electronics,Bluetooth Speaker,Student,COD,2,6640,10,6,4.2,False,11952
+ORD-10372,2025-08-13,Lahore,Punjab,Electronics,Bluetooth Speaker,Student,,2,4630,0,5,,False,9260
+ORD-10373,2025-04-27,Karachi,Sindh,Electronics,Earbuds,Consumer,Easypaisa,4,11370,5,2,4.2,False,43206
+ORD-10374,2025-03-19,Lahore,Punjab,Clothing,Kurta,Consumer,COD,2,2780,5,1,4.2,False,5282
+ORD-10375,2025-03-01,Peshawar,KPK,Clothing,Shalwar Kameez,Consumer,Card,2,1480,0,6,2.8,False,2960
+ORD-10376,2025-10-25,Karachi,Sindh,Electronics,Smart Watch,Consumer,JazzCash,2,8300,0,3,3.7,False,16600
+ORD-10377,2025-02-19,Lahore,Punjab,Home,Wall Clock,Consumer,COD,4,5360,5,5,4.3,True,20368
+ORD-10378,2025-09-28,Lahore,Punjab,Electronics,Power Bank,Corporate,COD,2,7560,0,2,4.0,False,15120
+ORD-10379,2025-10-24,Karachi,Sindh,Clothing,Shalwar Kameez,Consumer,JazzCash,3,3690,10,1,3.5,False,9963
+ORD-10380,2025-07-15,Karachi,Sindh,Clothing,Jeans,Consumer,COD,2,4440,0,8,3.0,False,8880
+ORD-10381,2025-04-12,Karachi,Sindh,Electronics,Power Bank,Corporate,COD,1,8300,10,4,4.5,False,7470
+ORD-10382,2025-01-07,Faisalabad,Punjab,Electronics,Power Bank,Consumer,Card,3,10220,10,2,4.6,False,27594
+ORD-10383,2025-07-20,Karachi,Sindh,Home,Wall Clock,Student,Card,4,2300,10,6,4.4,False,8280
+ORD-10384,2025-12-13,Sialkot,Punjab,Clothing,Hoodie,Consumer,JazzCash,2,2300,5,2,3.6,False,4370
+ORD-10385,2025-06-02,Lahore,Punjab,Clothing,Hoodie,Consumer,COD,1,2160,15,6,4.5,False,1836
+ORD-10386,2025-01-09,Faisalabad,Punjab,Electronics,Earbuds,Corporate,Easypaisa,1,10540,15,7,3.0,False,8959
+ORD-10387,2025-09-20,Karachi,Sindh,Home,Bed Sheet,Consumer,Card,2,2110,15,6,5.0,False,3587
+ORD-10388,2025-12-16,Lahore,Punjab,Electronics,Earbuds,Consumer,COD,3,5500,15,3,4.1,False,14025
+ORD-10389,2025-03-19,Lahore,Punjab,Electronics,Smart Watch,Consumer,Card,1,12340,0,7,2.6,False,12340
+ORD-10390,2025-07-28,Lahore,Punjab,Home,Bed Sheet,Consumer,COD,2,2330,10,8,3.5,False,4194
+ORD-10391,2025-04-26,Karachi,Sindh,Home,Bed Sheet,Student,COD,2,5490,5,2,3.8,False,10431
+ORD-10392,2025-05-24,Faisalabad,Punjab,Home,Dinner Set,Student,Card,2,3930,10,3,2.9,False,7074
+ORD-10393,2025-06-27,Karachi,Sindh,Electronics,Power Bank,Consumer,Card,3,6310,15,6,2.8,False,16090
+ORD-10394,2025-06-11,Faisalabad,Punjab,Clothing,Jeans,Consumer,Easypaisa,1,1800,0,3,,False,1800
+ORD-10395,2025-11-02,Sialkot,Punjab,Electronics,Bluetooth Speaker,Consumer,COD,3,4200,0,7,4.9,False,12600
+ORD-10396,2025-10-11,Faisalabad,Punjab,Home,Dinner Set,Consumer,COD,4,4570,10,4,4.4,False,16452
+ORD-10397,2025-12-11,Faisalabad,Punjab,Electronics,Smart Watch,Corporate,COD,1,7680,25,1,4.6,False,5760
+ORD-10398,2025-11-27,Lahore,Punjab,Clothing,Shalwar Kameez,Student,Card,4,2910,10,7,3.3,False,10476
+ORD-10399,2025-07-12,Islamabad,Federal,Home,Wall Clock,Student,,4,3810,15,6,4.3,False,12954
+ORD-10400,2025-02-18,Multan,Punjab,Electronics,Power Bank,Student,COD,4,11270,0,6,2.5,False,45080
+ORD-10401,2025-08-15,Lahore,Punjab,Home,Wall Clock,Consumer,Easypaisa,4,3010,10,1,4.3,False,10836
+ORD-10402,2025-05-22,Multan,Punjab,Electronics,Bluetooth Speaker,Consumer,Easypaisa,1,7060,5,4,,False,6707
+ORD-10403,2025-09-25,Faisalabad,Punjab,Books,Exam Guide,Student,JazzCash,3,850,0,8,3.2,True,2550
+ORD-10404,2025-09-28,Islamabad,Federal,Books,Notebook Pack,Corporate,COD,2,840,0,8,4.7,False,1680
+ORD-10405,2025-11-17,Karachi,Sindh,Clothing,Kurta,Consumer,COD,3,2840,10,8,,False,7668
+ORD-10406,2025-02-16,Faisalabad,Punjab,Clothing,Kurta,Consumer,JazzCash,1,2330,0,2,3.7,False,2330
+ORD-10407,2025-05-18,Faisalabad,Punjab,Electronics,Bluetooth Speaker,Student,COD,2,6080,5,5,3.0,False,11552
+ORD-10408,2025-07-22,Karachi,Sindh,Home,Bed Sheet,Corporate,Easypaisa,4,3190,10,2,3.5,False,11484
+ORD-10409,2025-02-01,Faisalabad,Punjab,Clothing,Hoodie,Consumer,COD,2,1640,15,3,2.6,False,2788
+ORD-10410,2025-08-26,Rawalpindi,Punjab,Home,Bed Sheet,Corporate,Easypaisa,2,5740,15,1,4.6,False,9758
+ORD-10411,2025-12-17,Multan,Punjab,Clothing,Hoodie,Student,COD,1,2490,0,5,4.1,False,2490
+ORD-10412,2025-09-08,Islamabad,Federal,Books,Notebook Pack,Consumer,COD,3,1180,0,2,4.6,False,3540
+ORD-10413,2025-04-09,Lahore,Punjab,Clothing,Hoodie,Consumer,Easypaisa,3,4080,5,3,,False,11628
+ORD-10414,2025-02-15,Hyderabad,Sindh,Clothing,Hoodie,Consumer,COD,1,2280,0,7,5.0,False,2280
+ORD-10415,2025-10-11,Islamabad,Federal,Electronics,Power Bank,Corporate,COD,4,4170,25,5,3.9,False,12510
+ORD-10416,2025-08-12,Faisalabad,Punjab,Home,Dinner Set,Corporate,Easypaisa,1,2100,5,3,4.5,False,1995
+ORD-10417,2025-04-02,Lahore,Punjab,Home,Dinner Set,Consumer,Easypaisa,3,5540,0,8,2.6,False,16620
+ORD-10418,2025-09-06,Karachi,Sindh,Clothing,Hoodie,Student,COD,3,2280,10,2,4.0,False,6156
+ORD-10419,2025-10-06,Karachi,Sindh,Home,Wall Clock,Consumer,,1,3120,10,6,4.2,False,2808
+ORD-10146,2025-06-22,Rawalpindi,Punjab,Home,Wall Clock,Corporate,COD,2,4120,0,2,3.0,False,8240
+ORD-10223,2025-04-15,Lahore,Punjab,Electronics,Bluetooth Speaker,Consumer,COD,4,10980,0,5,4.0,False,43920
+ORD-10193,2025-01-17,Lahore,Punjab,Clothing,Hoodie,Consumer,COD,2,3390,20,7,4.4,False,5424
+ORD-10305,2025-02-22,Lahore,Punjab,Home,Bed Sheet,Consumer,COD,1,5760,0,5,3.1,False,5760

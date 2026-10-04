@@ -1,0 +1,11 @@
+# Apna Data Apni Baten — tested on Python 3.11–3.13
+streamlit==1.64.0
+pandas==3.0.6
+numpy==2.5.3
+plotly==7.1.0
+openpyxl==3.1.5
+pyarrow==25.0.1
+
+# AI providers — you only need the one you use, but both are small
+openai==3.19.2
+anthropic==0.80.0
